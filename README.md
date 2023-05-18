@@ -1,2 +1,4 @@
 # Time-frequency-analysis
 A Modular and High-Resolution Time-Frequency Post-Processing Technique
+
+In this letter, based on the variational model, we propose a novel time-frequency post-processing technique to approximate the ideal time-frequency representation. Our method has the advantage of modularity, enabling "plug and play", independent of the performance of specific time-frequency analysis tool. Therefore, it can be easily generalized to the fractional Fourier domain and the linear canonical domain. Additionally, high-resolution is its merit, which depends on the specific instantaneous frequency estimation method. We reveal the relationship between instantaneous frequency estimation and reassignment method. The effectiveness of the proposed method is verified on both synthetic signals and real world signal.
